@@ -200,20 +200,16 @@ body {
 .mainImg {
   width: 1334px;
   height: 638px;
-  margin-left: 198px;
 }
 .carousel_img {
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 60px;
-  position: relative;
 }
 .leftarrow {
-  display: flex;
-  position: absolute;
   width: 114px;
   height: 114px;
-  margin-top: 290px;
-  left: 58px;
 }
 .rightArrow {
   width: 114px;
