@@ -259,7 +259,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 120px;
+  margin-left: 70px;
   margin-top: 120px;
 }
 .find_us_heading {
@@ -273,24 +273,23 @@ body {
   font-size: 60px;
   font-weight: 400;
 }
+
 .find_us_containt {
   width: 640px;
   height: 181px;
-  top: 4809px;
   font-size: 25px;
   font-weight: 400;
   line-height: 40px;
-  text-align: left;
 }
 .find_us img {
   width: 685px;
   height: 438px;
+  margin-left: 57px;
+  margin-right: 50px;
 }
 
 .f_us_local{
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;  
+  display: flex;  
 }
 .find_us_logo img {
   width: 71px;
